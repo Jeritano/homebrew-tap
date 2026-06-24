@@ -1,6 +1,6 @@
 cask "froglips" do
-  version "0.14.26"
-  sha256 "b16bda625999328ea8b978e4e56b65c6486083a1effe9aeb82841cc31c430e3e"
+  version "0.14.27"
+  sha256 "285bcadc9fa7d1f8866c9e1938bd7cc11da78bf1b83532a715e1b2b835965d98"
 
   url "https://github.com/Jeritano/FrogLips/releases/download/v#{version}/Froglips_#{version}_aarch64.dmg"
   name "Froglips"
